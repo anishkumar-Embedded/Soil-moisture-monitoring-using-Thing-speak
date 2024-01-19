@@ -1,7 +1,7 @@
-# Uploading Soil moisture sensor data in Thing Speak cloud
+# Uploading Temperature sensor data in Thing Speak cloud
 
 # AIM:
-To upload the Soil moisture senso data in the Thing speak using an ESP32 controller.
+To upload the temperature sensor data in the Thing speak using an ESP32 controller.
 
 # Apparatus required:
 ESP32 Controller  </br>
